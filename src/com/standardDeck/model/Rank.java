@@ -2,7 +2,7 @@ package com.standardDeck.model;
 
 public enum Rank {
 
-	ACES(1), TWO(2), THREE(3), FOUR(4), FIVE(5), SIX(6), SEVEN(7), EIGHT(8), NONE(9), TEM(10), JACK(11), QUEEN(12), KING(13);
+	ACES(1), TWO(2), THREE(3), FOUR(4), FIVE(5), SIX(6), SEVEN(7), EIGHT(8), NINE(9), TEM(10), JACK(11), QUEEN(12), KING(13);
 	
 	private final int rank;
 	
